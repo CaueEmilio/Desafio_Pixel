@@ -1,0 +1,5 @@
+Primeiramente analisei as cores exixtentes na imagem, mas apenas haviam as cores 0.51 e 255 da paleta, o que significa que uma mudança no brilho e na saturação não faria diferença. 
+Então abri a imagem em um editor hexadecimal para ver se havia alguma mensagem escrita nos espaços vazios dos bytes da imagem, mas encontrei apenas caracteres sem sentido aparente.
+O mesmo foi encontrado quando converti a imagem para .txt. 
+Tentei converter o README.txt para .zip e ver se havia alguma dica de criptografia para os caracteres encontrados no editor hexadecimal, mas nada foi encontrado.
+Por último, tentei fazer uma análise dos bits menos significativos, mas ainda assim não havia nada de diferente na imagem utilizando de 1 a 7 bits menos significativos para genar a nova imagem

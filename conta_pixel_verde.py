@@ -5,6 +5,7 @@
 Autor: Cauê Emilio de Moraes
 Algoritmo para extração de dados de página web (link: http://www.ans.gov.br/prestadores/tiss-troca-de-informacao-de-saude-suplementar)
 Atualização: 11/05/21
+Antes da construção da contagem de pixels verdes, foram aferidos os valores das cores por meio de código
 
 '''
 
